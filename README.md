@@ -65,4 +65,18 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 AnkiWeb (Ankitects) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ankiweb.net/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ankiweb.net/)
+- [Documentation](https://docs.ankiweb.net/)
+- [Getting started](https://docs.ankiweb.net/manual/getting-started)
+- [Changelog](https://docs.ankiweb.net/releases/betas/intro)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ankiweb/](https://apis.io/providers/ankiweb/).
